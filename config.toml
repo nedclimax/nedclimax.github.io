@@ -1,0 +1,4 @@
+baseURL = 'https://maroueneboughoufa.github.io/'
+languageCode = 'en-us'
+title = 'AwesomeWebsite'
+theme = 'PaperMod'
